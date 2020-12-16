@@ -1,0 +1,10 @@
+C:\Users\dlockwood024548\source\repos\SQL Tester Solution\SQL Tester Project\bin\Debug\SQL Tester Project.exe.config
+C:\Users\dlockwood024548\source\repos\SQL Tester Solution\SQL Tester Project\bin\Debug\SQL Tester Project.exe
+C:\Users\dlockwood024548\source\repos\SQL Tester Solution\SQL Tester Project\bin\Debug\SQL Tester Project.pdb
+C:\Users\dlockwood024548\source\repos\SQL Tester Solution\SQL Tester Project\obj\Debug\SQL Tester Project.csprojAssemblyReference.cache
+C:\Users\dlockwood024548\source\repos\SQL Tester Solution\SQL Tester Project\obj\Debug\SQL_Tester_Project.frmSQLTester.resources
+C:\Users\dlockwood024548\source\repos\SQL Tester Solution\SQL Tester Project\obj\Debug\SQL_Tester_Project.Properties.Resources.resources
+C:\Users\dlockwood024548\source\repos\SQL Tester Solution\SQL Tester Project\obj\Debug\SQL Tester Project.csproj.GenerateResource.cache
+C:\Users\dlockwood024548\source\repos\SQL Tester Solution\SQL Tester Project\obj\Debug\SQL Tester Project.csproj.CoreCompileInputs.cache
+C:\Users\dlockwood024548\source\repos\SQL Tester Solution\SQL Tester Project\obj\Debug\SQL Tester Project.exe
+C:\Users\dlockwood024548\source\repos\SQL Tester Solution\SQL Tester Project\obj\Debug\SQL Tester Project.pdb
